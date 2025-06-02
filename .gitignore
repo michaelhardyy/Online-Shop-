@@ -38,6 +38,3 @@ package.bluej
 .idea/
 .vscode/
 *.iml
-
-# Optionally, ignore the README.TXT if you’re replacing it with README.md
-#README.TXT
