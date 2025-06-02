@@ -22,3 +22,25 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Ignore BlueJ project context files
+*.ctxt
+package.bluej
+
+# Ignore compiled Java bytecode files
+*.class
+
+# Ignore macOS system files (created automatically)
+.DS_Store
+
+# Ignore backup files or temporary files
+*~
+*.bak
+
+# Ignore IDE-specific folders (if you use Eclipse, IntelliJ, etc. later)
+.idea/
+.vscode/
+*.iml
+
+# Optionally, ignore the README.TXT if you’re replacing it with README.md
+#README.TXT
