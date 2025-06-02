@@ -27,9 +27,6 @@ replay_pid*
 *.ctxt
 package.bluej
 
-# Ignore compiled Java bytecode files
-*.class
-
 # Ignore macOS system files (created automatically)
 .DS_Store
 
