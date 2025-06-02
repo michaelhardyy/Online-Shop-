@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=OnlineShop
+comment1.params=
+comment1.target=OnlineShop()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=newSeller
+comment2.target=void\ addSeller(Seller)
+comment3.params=newItem
+comment3.target=void\ addItem(Item)
+comment4.params=
+comment4.target=java.lang.String\ report()
+comment5.params=
+comment5.target=void\ exit()
+comment6.params=
+comment6.target=void\ error()
+comment7.params=id
+comment7.target=void\ sellItems(int)
+comment8.params=
+comment8.target=double\ income()
+comment9.params=
+comment9.target=void\ show()
+numComments=11

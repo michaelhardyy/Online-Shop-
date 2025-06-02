@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OnlineShopFrame
+comment0.text=\r\n\ This\ is\ the\ main\ frame\ for\ the\ Online\ Shop\ application.\r\n
+comment1.params=updater
+comment1.target=OnlineShopFrame(model.Updater)
+comment1.text=\r\n\ Constructor\ initializes\ the\ GUI\ components\ and\ layout.\r\n\ @param\ updater\ -\ Updater\ object\ used\ for\ observer\ pattern.\r\n
+comment2.params=
+comment2.target=void\ main()
+numComments=3
